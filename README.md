@@ -1,6 +1,5 @@
 Ola! Eu sou Eduardo Hochmann
 
-- 🔭 Hoje estou procurando uma oportunidade
 - 🌱 No momento estou aprendendo JS e React
  
 <div style="display: inline_block"><br>
